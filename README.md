@@ -1,5 +1,7 @@
 # Quick Launch iTerm
 
+![screenshot](screenshot.png)
+
 Adds a button to MacOS Finder to launch iTerm at the currently-selected directory. Saves time versus dragging the directory to iTerm's dock icon or right clicking and then finding in the menu.
 
 ## Installation
